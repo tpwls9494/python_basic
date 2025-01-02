@@ -14,3 +14,5 @@ st.write(my_site)
 
 if st.button(f'{my_site} 접속하기'):
     st.success(f"{my_site}로 접속 중⭐⭐⭐", icon="✅")
+
+st.title('실습 페이지')
